@@ -4,7 +4,7 @@ import { useEffect, useState, type CSSProperties } from "react";
 
 // MIT. Paint masks and lettering are original EZPZ artwork.
 // Concrete source: ambientCG Concrete040 (CC0). Self-host these files if preferred.
-const ASSET_ROOT = "/assets";
+const ASSET_ROOT = "https://raw.githubusercontent.com/ezam0000/ezpz-spray-lettering/276fc75dc8a69c80a07fbdae3e6541a79e571e32/public/assets";
 const ASSETS = {
   lettering: `${ASSET_ROOT}/lettering.png`,
   overspray: `${ASSET_ROOT}/overspray.png`,
