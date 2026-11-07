@@ -1,0 +1,6 @@
+node_modules/
+dist/
+publication/
+.DS_Store
+public/assets/concrete.png
+scripts/export_layers.py
